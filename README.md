@@ -16,6 +16,6 @@ The system uses .NET Core for the backend, and JWT-based authentication with rol
 - Password Hashing: BCrypt
 - API Documentation: Swagger
 ## Setup Instructions
-1. *Prerequisites*
+ **Prerequisites**
 * .NET 8 SDK
 * SQL Server
