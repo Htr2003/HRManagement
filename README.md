@@ -19,3 +19,8 @@ The system uses .NET Core for the backend, and JWT-based authentication with rol
  **Prerequisites**
 * .NET 8 SDK
 * SQL Server
+**1.** **Clone the Repository**
+<div>
+  git clone https://github.com/your-username/hr-management-system.git
+cd hr-management-system
+</div>
