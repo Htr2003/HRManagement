@@ -23,13 +23,12 @@ The system uses .NET Core for the backend, and JWT-based authentication with rol
 **1.** **Clone the Repository**
 
     git clone https://github.com/your-username/hr-management-system.git
-    
     cd hr-management-system
 
 **2.** **Backend Setup**
 
     "ConnectionStrings": {
-    "DefaultConnection": "Server=YOUR_SERVER;Database=HRManagementDB;Trusted_Connection=True;MultipleActiveResultSets=true"
+        "DefaultConnection": "Server=YOUR_SERVER;Database=HRManagementDB;Trusted_Connection=True;MultipleActiveResultSets=true"
     }  
 
 
