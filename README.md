@@ -1,4 +1,5 @@
 # Human Resource Management System (HRMS)
+A simple Web API for Human Resource Management System
 ## Project Overview
 The Human Resource Management System (HRMS) streamlines HR processes through two components:
   - Admin Site: Manage employee data, leave requests, payroll, and HR operations
@@ -44,5 +45,7 @@ The system uses .NET Core for the backend, and JWT-based authentication with rol
 
 - Backend API: http://localhost:5000 (Default)
 
+## License
+This project is licensed under the MIT License.
 
 
