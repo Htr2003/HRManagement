@@ -30,12 +30,14 @@ The system uses .NET Core for the backend, and JWT-based authentication with rol
 
         "ConnectionStrings": {
             "DefaultConnection": "Server=YOUR_SERVER;Database=HRManagementDB;Trusted_Connection=True;MultipleActiveResultSets=true"
-        }  
+        }
+  
 * Run database migrations:
 
         cd HRManagementAPI
         dotnet ef database update
 * Start the backend:
+  
         dotnet run
 
 **3** **Access the Application**
