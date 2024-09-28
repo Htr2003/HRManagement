@@ -1,5 +1,5 @@
 # Human Resource Management System (HRMS)
-A simple Web API for Human Resource Management System
+A simple Web API for Human Resource Management system using Swagger 
 ## Project Overview
 The Human Resource Management System (HRMS) streamlines HR processes through two components:
   - Admin Site: Manage employee data, leave requests, payroll, and HR operations
