@@ -10,3 +10,12 @@ The system uses .NET Core for the backend, and JWT-based authentication with rol
 - Leave request approval/rejection
 - Payroll management
 - Role-based access control (Admin, Employee)
+## Technology Stack
+- Backend: .NET Core, C#, Entity Framework Core, SQL Server
+- Authentication: JWT Bearer Authentication
+- Password Hashing: BCrypt
+- API Documentation: Swagger
+## Setup Instructions
+### Prerequisites
+- .NET 8 SDK
+- SQL Server
