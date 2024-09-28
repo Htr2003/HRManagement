@@ -27,7 +27,7 @@ The system uses .NET Core for the backend, and JWT-based authentication with rol
 
 **2.** **Backend Setup**
 
-
+* Configure the connection string in HRManagementAPI/appsettings.json:
 
     "ConnectionStrings": {
         "DefaultConnection": "Server=YOUR_SERVER;Database=HRManagementDB;Trusted_Connection=True;MultipleActiveResultSets=true"
