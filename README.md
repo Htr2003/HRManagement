@@ -21,7 +21,7 @@ The system uses .NET Core for the backend, and JWT-based authentication with rol
 * SQL Server
   
 **1.** **Clone the Repository**
-<div>
-  git clone https://github.com/your-username/hr-management-system.git
-cd hr-management-system
-</div>
+
+    git clone https://github.com/your-username/hr-management-system.git
+    
+    cd hr-management-system
